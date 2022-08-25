@@ -1,3 +1,5 @@
+Included in this repository is a project template using MVC.
+
 ### MVC - Model View Controller.
 
 #### A lecture outline for the methodology and organisation of modern websites.
